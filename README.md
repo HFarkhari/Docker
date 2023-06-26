@@ -1,6 +1,6 @@
 # Introduction to Docker
 
-Welcome to the GitHub repository for the "Intro to Docker Part 1" presentation! This repository contains the resources and information related to the session. 
+Welcome to the GitHub repository for the "Intro to Docker" presentation! This repository contains the resources and information related to the session. 
 
 ## Presentation Videos
 
